@@ -28,7 +28,8 @@ Permite adicionar, listar e remover tarefas de forma prática.
 
 ```bash
 npm install
+```
+### 2. Inicie o servidor de desenvolvimento:
+```bash
 npm start
 ```
-
-
